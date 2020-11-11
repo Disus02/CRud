@@ -1,0 +1,4 @@
+1       fish                          23      120 
+2       Apelsin                       15      150 
+3       Arbuz                         122     2323
+4       Persik                        10      250 
